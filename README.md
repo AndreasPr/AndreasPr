@@ -40,6 +40,7 @@ I hold a Master’s Degree in Computer Science from The University of Chicago wi
 
 ### 📜 Certifications
 - AWS Certified Solutions Architect – Professional
+- AWS Certified CloudOps Engineer - Associate
 - AWS Certified Developer – Associate
 - AWS Certified Solutions Architect – Associate
 
