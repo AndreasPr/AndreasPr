@@ -50,7 +50,7 @@ I hold a Master’s Degree in Computer Science from The University of Chicago wi
 I actively contribute to projects that explore the intersection of AI, cloud infrastructure, and modern web technologies. You can find my work on:
 - AI-powered apps
 - Cloud tools
-- Modern web development such as Next.js and Tailwind CSS 
+- Modern web development
 
 ---
 
