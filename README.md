@@ -44,6 +44,9 @@ I hold a Master’s Degree in Computer Science from The University of Chicago wi
 - AWS Certified Developer – Associate
 - AWS Certified Solutions Architect – Associate
 
+## 🧪 Labs & Practical Experience
+- Linux Administration Labs (KodeKloud)
+
 ---
 
 ## 🚀 Projects & Contributions
