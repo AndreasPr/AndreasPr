@@ -46,7 +46,8 @@ I hold a Master’s Degree in Computer Science from The University of Chicago wi
 
 ## 🧪 Labs & Practical Experience
 - Linux Administration Labs (KodeKloud)
-
+- Terraform Labs (in progress...)
+ 
 ---
 
 ## 🚀 Projects & Contributions
