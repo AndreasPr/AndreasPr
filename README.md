@@ -49,6 +49,7 @@ I hold a Master’s Degree in Computer Science from The University of Chicago wi
 - Terraform Labs (in progress...)
 - Anthropic Academy:
   - Claude Code in Action
+  - Introduction to Model Context Protocol (MCP)
  
 ---
 
