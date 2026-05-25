@@ -50,6 +50,7 @@ I hold a Master’s Degree in Computer Science from The University of Chicago wi
 - Anthropic Academy:
   - Claude Code in Action
   - Introduction to Model Context Protocol (MCP)
+  - Building with the Claude API (in progress)
  
 ---
 
