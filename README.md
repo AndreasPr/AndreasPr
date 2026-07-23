@@ -36,7 +36,7 @@ I hold a Master’s Degree in Computer Science from The University of Chicago wi
 ### 💻 Technologies & Development
 - **Programming Languages:** Python, JavaScript, GoLang
 - **Frameworks & Libraries:** ReactJS, Next.js, FastAPI, Flask, Streamlit, Tailwind CSS, Bootstrap, AWS SDK (Boto3)
-- **Software Development:** Microservices Architecture, Design Patterns, Data Structures & Algorithms, REST API, Database Design, Responsive Web Design, AWS Cloud, SQL, MongoDB, Docker, Kubernetes, Git, CI/CD, HTML, CSS, JIRA
+- **Software Development:** System Design, Design Patterns, Data Structures & Algorithms, REST API, Database Design, Responsive Web Design, AWS Cloud, SQL, MongoDB, Docker, Kubernetes, Git, CI/CD, HTML, CSS, JIRA
 - AI: MCP, Prompt Engineering
 
 ### 📜 Certifications
