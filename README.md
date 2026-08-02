@@ -1,6 +1,6 @@
 # Andreas Priftis
 
-### Software Engineer · Cloud & Distributed Systems · AI Infrastructure
+### Software Engineering · Cloud & Distributed Systems · AI Infrastructure
 
 ## 🎓 About Me
 
