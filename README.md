@@ -32,7 +32,7 @@ Software Engineer specializing in scalable cloud architecture and distributed sy
   - Claude Code in Action
   - Introduction to Model Context Protocol (MCP)
   - Building with the Claude API
-  - Claude with Amazon Bedrock (in progress...)
+  - Claude with Amazon Bedrock
  
 ---
 
