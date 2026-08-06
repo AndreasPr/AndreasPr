@@ -11,12 +11,12 @@ Software Engineer specializing in scalable cloud architecture and distributed sy
 ## 🛠 Skills
 
 ### ☁️ Architecture & Cloud
-- **Architectural Design:** Expert in designing scalable, component-based infrastructures and microservices architectures.
-- **Cloud Technologies:** Proficient in AWS (i.e Amazon EC2, AWS Lambda, AWS Elastic Beanstalk, Amazon S3, Amazon EBS, Amazon RDS, Amazon Aurora, Amazon DynamoDB, Amazon VPC, Elastic Load Balancing (ELB), AWS Identity and Access Management (IAM), AWS CloudFormation, Amazon CloudWatch, SQS, SNS, AWS Step Functions, Amazon API Gateway
+Distributed systems, Microservices design, Event-driven architecture, Infrastructure as Code AWS (EC2, Lambda, Elastic Beanstalk, S3, RDS, Aurora, DynamoDB, VPC, Elastic Load Balancing (ELB), Identity and Access Management (IAM), CloudFormation, CloudWatch, SQS, SNS, Step Functions, API Gateway)
+
 
 ### 💻 Technologies & Development
 - **Languages - Frameworks - Libraries:** Python, JavaScript/Typescript, GoLang, React, Next.js, FastAPI, Flask, Streamlit, Tailwind CSS, Bootstrap, AWS SDK (Boto3)
-- **Software Development:** System Design, Design Patterns, Data Structures & Algorithms, REST API Design, Database Design, Responsive Web Design, SQL, MongoDB, Docker, Kubernetes, Git, CI/CD, HTML, CSS, JIRA
+- **Systems & Data:** System Design, Design Patterns, Data Structures & Algorithms, REST API Design, Database Design, Responsive Web Design, SQL, MongoDB, Docker, Kubernetes, Git, CI/CD, JIRA
 - **AI**: Model Context Protocol (MCP), RAG, Prompt Engineering, Claude API, Claude Agents
 
 ### 📜 Certifications
