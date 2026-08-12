@@ -16,7 +16,7 @@ Distributed systems, Microservices design, Event-driven architecture, Infrastruc
 
 ### 💻 Technologies & Development
 - **Languages - Frameworks - Libraries:** Python, JavaScript/Typescript, GoLang, React, Next.js, FastAPI, Flask, Streamlit, Tailwind CSS, Bootstrap, AWS SDK (Boto3)
-- **Systems & Data:** System Design, Design Patterns, Data Structures & Algorithms, REST API Design, Database Design, Responsive Web Design, SQL, MongoDB, Docker, Kubernetes, Git, CI/CD, JIRA
+- **Systems & Data:** System Design, Design Patterns, Data Structures & Algorithms, REST API Design, Database Design, Responsive Web Design, SQL, MongoDB, Docker, Kubernetes, Git, CI/CD, Terraform, JIRA
 - **Applied AI**: Model Context Protocol (MCP), RAG, Prompt Engineering, Claude API, Claude Agents
 
 ### 📜 Certifications
