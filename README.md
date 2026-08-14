@@ -24,6 +24,7 @@ Distributed systems, Microservices design, Event-driven architecture, Infrastruc
 - AWS Certified CloudOps Engineer - Associate
 - AWS Certified Developer – Associate
 - AWS Certified Solutions Architect – Associate
+- Certified Kubernetes Application Developer (CKAD) (in progress...)
 
 ## 🧪 Labs & Practical Experience
 - Linux Administration Labs (KodeKloud)
@@ -33,7 +34,7 @@ Distributed systems, Microservices design, Event-driven architecture, Infrastruc
   - Introduction to Model Context Protocol (MCP)
   - Building with the Claude API
   - Claude with Amazon Bedrock
- 
+
 ---
 
 ## 🚀 Projects & Contributions
