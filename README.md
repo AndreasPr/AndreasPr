@@ -25,6 +25,7 @@ Distributed systems, Microservices design, Event-driven architecture, Infrastruc
 - AWS Certified Developer – Associate
 - AWS Certified Solutions Architect – Associate
 - Certified Kubernetes Application Developer (CKAD) (in progress...)
+- NVIDIA-Certified Associate - AI Infrastructure and Operations (NCA-AIIO) (in progress...)
 
 ## 🧪 Labs & Practical Experience
 - Linux Administration Labs (KodeKloud)
