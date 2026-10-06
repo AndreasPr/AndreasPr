@@ -29,7 +29,7 @@ Distributed systems, Microservices design, Event-driven architecture, Infrastruc
 
 ## 🧪 Labs & Practical Experience
 - Linux Administration Labs (KodeKloud)
-- Terraform Labs (KodeKloud)(in progress...)
+- Terraform Labs (KodeKloud)
 - Anthropic Academy:
   - Claude Code in Action
   - Introduction to Model Context Protocol (MCP)
