@@ -24,6 +24,7 @@ Distributed systems, Microservices design, Event-driven architecture, Infrastruc
 - AWS Certified CloudOps Engineer - Associate
 - AWS Certified Developer – Associate
 - AWS Certified Solutions Architect – Associate
+- Terraform Associate (004) (in progress...)
 - Certified Kubernetes Application Developer (CKAD) (in progress...)
 - NVIDIA-Certified Associate - AI Infrastructure and Operations (NCA-AIIO) (in progress...)
 
