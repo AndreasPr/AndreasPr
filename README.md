@@ -29,8 +29,8 @@ Distributed systems, Microservices design, Event-driven architecture, Infrastruc
 - NVIDIA-Certified Associate - AI Infrastructure and Operations (NCA-AIIO) (in progress...)
 
 ## 🧪 Labs & Practical Experience
-- Linux Administration Labs (KodeKloud)
-- Terraform Labs (KodeKloud)
+- Linux Administration Labs (KodeKloud) (15-25 hours)
+- Terraform Labs (KodeKloud) (20-30 hours)
 - Anthropic Academy:
   - Claude Code in Action
   - Introduction to Model Context Protocol (MCP)
