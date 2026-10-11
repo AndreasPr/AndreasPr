@@ -36,6 +36,8 @@ Distributed systems, Microservices design, Event-driven architecture, Infrastruc
   - Introduction to Model Context Protocol (MCP)
   - Building with the Claude API
   - Claude with Amazon Bedrock
+  - Model Context Protocol: Advanced Topics (in progress...)
+
 
 ---
 
