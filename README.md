@@ -37,7 +37,7 @@ Distributed systems, Microservices design, Event-driven architecture, Infrastruc
   - Building with the Claude API
   - Claude with Amazon Bedrock
   - Model Context Protocol: Advanced Topics (in progress...)
-- Artificial Intelligence Labs (KodeKloud) (10 hours) 
+- Artificial Intelligence Labs (KodeKloud) (10 hours) (in progress...)
 
 
 
