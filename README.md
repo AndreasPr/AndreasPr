@@ -1,6 +1,6 @@
 # Andreas Priftis
 
-### Software Engineering · Cloud & Distributed Systems · AI Infrastructure
+### Full-Stack Software Engineer | Product Engineering | Applied AI & Agentic Systems | AI Infrastructure | Cloud & Distributed Systems
 
 ## 🎓 About Me
 
